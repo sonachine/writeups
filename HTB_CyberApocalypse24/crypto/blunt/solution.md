@@ -1,4 +1,4 @@
-Brute forced the `b` using `./brute_force_b.py` script.
+Brute forced the `a` and `b` values using `./brute_force.py` script.
 
 `b = 1913706799`
 
