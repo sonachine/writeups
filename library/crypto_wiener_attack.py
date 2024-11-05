@@ -1,4 +1,5 @@
 # LOW PRIVATE EXPONENT (d)
+# WIENER ATTACK
 # q < p < 2q
 # d < (1/3) * N^(1/4)
 
