@@ -1,0 +1,20 @@
+Us_lnt10ns}1443{FTCDqsysp0srrr4up_t1
+
+36 characters ==> 6x6 spiral transposition
+
+/**
+e.g. for 3x3:
+
+1 2 3
+8 9 4
+7 6 5
+**/
+
+U s _ l n t
+D q s y s 1
+C u p _ p 0
+T 4 1 t 0 n
+F r r r s s
+{ 3 4 4 1 }
+
+UDCTF{squ4r3_sp1r4ly_tr4nsp0s1t10ns}
